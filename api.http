@@ -1,0 +1,19 @@
+### REQUESTS
+
+### Request Home Page
+GET http://localhost:3000/
+
+### Request All Songs
+GET http://localhost:3000/songs
+
+### Request Song by ID
+GET http://localhost:3000/songs/1
+
+### Request to Create a New Song
+POST http://localhost:3000/songs
+
+### Request to Update a Song
+PUT http://localhost:3000/songs/1
+
+### Request to Delete a Song
+DELETE http://localhost:3000/songs/1
