@@ -9,7 +9,18 @@ Creating Service
 Creating Module
 
 Comandos:
-- npm run start:dev
-- nest g module new_module
-- nest g controller new_controller
-- nest g service new_service
+```
+npm run start:dev
+```
+
+```
+nest g module new_module
+```
+
+```
+nest g controller new_controller
+```
+
+```
+nest g service new_service
+```
