@@ -6,7 +6,6 @@ https://youtu.be/sFnAHC9lLaw?si=CHzt1xla7GoOpKnF
 Módulo 0 
 
 Comandos:
-- npm i -g @nestjs/cli
-- nest new nome-do-projeto
-- cd nome-do-projeto
-- npm run start
+- npm run start:dev
+- nest g module new_module
+- nest g controller new_controller
